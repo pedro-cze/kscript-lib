@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: kscript-utils
+Implementation-Version: 3.6-SNAPSHOT
+Implementation-Vendor: 2N TELEKOMUNIKACE, a.s.
+
